@@ -1,0 +1,44 @@
+This is a web-based application with appointment scheduling functionality. It provides the interface between the salon and clients. In this web application clients take an appointment online and salon administrators approves and cancel that appointment.
+
+Project Requirements
+
+- Language Used	PHP5.6, PHP7.x
+- Database	MySQL 5.x
+- User Interface Design	HTML, AJAX,JQUERY,JAVASCRIPT
+- Web Browser	Mozilla, Google Chrome, IE8, OPERA
+- Software	XAMPP
+
+Project Modules
+
+In this project, we use PHP and  Mysql database. It has two modules, admin and user.
+Admin
+
+- Dashboard: In this section, admin can see all detail - in brief like total number of customers, Total number of appointments, Rejected Appointment, Accepted Appointment, Total Services, Today’s sales, yesterday’s sales, Last seven days’ sales and total sales.
+- Services: In this section admin can manage services of the salon (add and update).
+- Pages: In this section admin can manage about us and contact us pages.
+- Appointment: In this section admin can view the detail of appointments and have the right to reject and select appointment.
+- Enquiry: In this section admin can read the enquiry which is received by the users.
+- Customer List: In this section admin can view customer list and assign services and make invoices of services which is taken by customer.
+- Reports: In this section admin can view users’ detail and sales in particular periods
+- Invoice: In this section, there is the list of total invoices which is viewed by an admin.
+- Search Appointment: In this section, admin can search appointments with the help of his/her appointment number and contact number.
+- Search Invoice: In this section, admin can search invoices with the help of his/her invoice number.
+- Admin can also update his profile, change password and recover password.
+
+User
+
+- One time registration is required for an appointment.
+- Home Page: User can visit website.
+- Services: User views the services which is offer by the salon.
+- About Us: User sees the details of the salon.
+- Contact Us: User can contact the salon.
+- Book Salon: In this section, registered users can book the appointment of the salon.
+- Profile: In this section, user can view their profile.
+- Setting: In this section, user can change their password.
+- Booking History: In this section, User can view the status of appointment.
+- Invoice History: In this section, User can view their invoices.
+- Logout: User can logout from their account.
+
+Credentials for admin panel.
+Username: admin
+Password: Test@123
